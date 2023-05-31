@@ -1,0 +1,10 @@
+<component name="libraryTable">
+  <library name="ParcsLabJava">
+    <CLASSES>
+      <root url="jar://$PROJECT_DIR$/out/production/ParcsLabJava/ShanksAlgorithm.jar!/" />
+      <root url="jar://$PROJECT_DIR$/out/production/ParcsLabJava/Solver.jar!/" />
+    </CLASSES>
+    <JAVADOC />
+    <SOURCES />
+  </library>
+</component>
