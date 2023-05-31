@@ -1,0 +1,11 @@
+<component name="ArtifactManager">
+  <artifact type="jar" build-on-make="true" name="ParcsLabJava-Main:jar">
+    <output-path>$PROJECT_DIR$/out/artifacts/ParcsLabJava_Main_jar</output-path>
+    <root id="archive" name="ParcsLabJava-Main.jar">
+      <element id="module-output" name="ParcsLabJava-Main" />
+      <element id="extracted-dir" path="$PROJECT_DIR$/out/parcs.jar" path-in-jar="/" />
+      <element id="extracted-dir" path="$PROJECT_DIR$/out/ShanksAlgorithm.jar" path-in-jar="/" />
+      <element id="extracted-dir" path="$PROJECT_DIR$/out/Solver.jar" path-in-jar="/" />
+    </root>
+  </artifact>
+</component>
