@@ -16,4 +16,4 @@ out/MonteCarloAlgorithm.jar: out/parcs.jar src/MonteCarloAlgorithm.java
 build: out/Solver.jar out/MonteCarloAlgorithm.jar
 
 run: out/Solver.jar out/MonteCarloAlgorithm.jar
-	@cd out && java -cp 'parcs.jar:Solver.jar' Solver
+	@cd out && java -cp 'parcs.jar:Solver.jar' Solver $(ARGS)
