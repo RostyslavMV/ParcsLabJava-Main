@@ -26,7 +26,7 @@ public class Solver implements AM {
         int processes;
 
         try {
-            BufferedReader in = new BufferedReader(new FileReader(info.curtask.findFile("input_0_2.txt")));
+            BufferedReader in = new BufferedReader(new FileReader(info.curtask.findFile("input_0_1.txt")));
 
             processes = Integer.parseInt(in.readLine());
             totalPoints = Long.parseLong(in.readLine());
